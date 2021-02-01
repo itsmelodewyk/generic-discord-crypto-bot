@@ -10,5 +10,5 @@ A simple template that can be used to gather cryptocurrency metrics and post it 
 
 1. Clone repo
 2. Run `npm install`
-3. Add Discord credentials in a `.env` file
-3. Run `node index.js`
+3. Add environment variables and Discord Bot credentials to `.env` file
+4. Run `node index.js`
