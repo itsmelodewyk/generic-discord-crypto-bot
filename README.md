@@ -1,5 +1,5 @@
-# Building a Discord Bot that periodically queries cryptocurrency metrics
-A simple template that can be used to gather cryptocurrency metrics and post it to a Discord channel.
+# Discord Bot to periodically query cryptocurrency metrics
+A simple bot that can be used to gather cryptocurrency metrics and publish it to a Discord channel.
 
 ## Requirements
 
