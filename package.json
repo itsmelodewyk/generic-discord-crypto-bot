@@ -1,0 +1,17 @@
+{
+  "name": "generic-discord-crypto-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot for cryptocurrencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lodewyk van der Westhuizen",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^11.6.4",
+    "dotenv": "^8.2.0",
+    "node-cron": "^2.0.3"
+  }
+}
