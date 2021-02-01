@@ -18,7 +18,7 @@ const bot = new discord.Client();
 bot.login(BOT_TOKEN);
 
 bot.on('ready', () => {
-  console.info("[INFO]: " + ${bot.user.tag} + ", initialized.");
+  console.info("[INFO]: " + bot.user.tag + ", initialized.");
 });
 
 cron.schedule('*/5 * * * *', () => {
